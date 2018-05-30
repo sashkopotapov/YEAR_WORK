@@ -5,4 +5,4 @@ it will choose for you and send you packs of actual news.<br />
 -[TelegramAPI](https://core.telegram.org).<br />
 -[NewsAPI]( https://newsapi.org).<br />
 I will add more information later, because I have just started my project.
-![Alt Text](https://giphy.com/embed/3IF2zem7jpJFnw49I5)
+![Alt Text](https://media.giphy.com/media/3IF2zem7jpJFnw49I5/giphy.gif)
